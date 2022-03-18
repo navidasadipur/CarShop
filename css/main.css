@@ -342,3 +342,23 @@ body{
   color: var(--mainYellow);
 }
 /* end services section */
+/* customer */
+.customer-card-body{
+  margin-top: -4rem!important;
+  color: var(--mainGrey);
+}
+.customer-img{
+  border: 0.4rem solid var(--mainWhite);
+}
+.customer-name{
+  color: var(--mainBlue);
+  margin: 0.5rem;
+}
+.customer-icon{
+  font-size: 2rem;
+  color: var(--mainGrey);
+}
+.customer-quote{
+  max-width: 90%;
+}
+/* end customer */
